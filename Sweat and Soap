@@ -1,160 +1,160 @@
 {
-   "title":"Sweat and Soap Pt.1",
-   "description":"Part 1/? of the readthrough. BGM Suggestion: https://youtu.be/MlgD3nOndxw",
+   "title":"Sweat and Soap Pt.2",
+   "description":"Part 2/5 of the readthrough. BGM Suggestion: https://youtu.be/MlgD3nOndxw",
    "artist":"Kintetsu Yamada",
    "author":"Kintetsu Yamada",
-   "cover":"https://i.imgur.com/ZFPY5rp.jpg",
+   "cover":"https://i.imgur.com/nwguV8G.jpg",
    "chapters":{
-      "1":{
-         "title":"I Need to Smell You Every Day!",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "18":{
+         "title":"From the Jaws of Defeat",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/RVUOsbB/"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/9YED4Z0/"
          }
       },
-      "2":{
-         "title":"Astinko-chan and Asako-san",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "19":{
+         "title":"What Happens in Osaka",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/ChHfHSJ/"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SlgDU3S/"
          }
       },
-      "3":{
-         "title":"A Bit More Time ",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "20":{
+         "title":"Coming Clean",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/c2jZYUO"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/O98dUXB"
          }
       },
-      "4":{
-         "title":"What Really Matters",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "21":{
+         "title":"I'll Be Fine",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/CK7Dmj0"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/duj5C6N"
          }
       },
-      "5":{
-         "title":"The First Date Trap",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "22":{
+         "title":"Two Girls",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/10h5dtK"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PJYTEvX"
          }
       },
-      "6":{
-         "title":"The Good Kind of Sweat",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "23":{
+         "title":"Is There Anything You Want?",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/Amur3lz"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/RuYV19o"
          }
       },
-      "7":{
-         "title":"Tears",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "24":{
+         "title":"Before the Trip",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/laqyE82"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dZ8wMPC"
          }
       },
-      "8":{
-         "title":"Changes in Scent Caused by Mental Stress: Trends and Countermeasures",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "25":{
+         "title":"To Hokkaido!",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/Fvpc9Oz"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/3Fkh2Me"
          }
       },
-      "8.5":{
-         "title":"After Round 2",
-         "volume":"1",
-         "last_updated":"1681568472",
+      "26":{
+         "title":"The First Bath",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/wIGix2j"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SbsHu0g"
          }
       },
-      "9":{
-         "title":"Not to Anyone",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "26.5":{
+         "title":"Side Story: Voice of the Marron Glacé",
+         "volume":"3",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/8tZ40XE"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PJsU9AM"
          }
       },
-      "10":{
-         "title":"Little by Little",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "27":{
+         "title":"The Word Is Out!",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/rgtXCSd"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Pbjf59G"
          }
       },
-      "11":{
-         "title":"Natori's Secret",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "28":{
+         "title":"Introductions",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/RiPFEGB"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1LcLzCC"
          }
       },
-      "12":{
-         "title":"Young Natori",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "29":{
+         "title":"Turning Point",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/mfw8Cz3"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/D3pcuKp"
          }
       },
-      "13":{
-         "title":"I Have You Now",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "30":{
+         "title":"Men and Women",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/eC92UFp"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5U28t1a"
          }
       },
-      "14":{
-         "title":"Family",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "31":{
+         "title":"Toward the Beginning",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/oAPHKq3"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/oVePIuR"
          }
       },
-      "15":{
-         "title":"I'll Be the Judge",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "32":{
+         "title":"The Meeting",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/sXzIiR5"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/VhceRqc"
          }
       },
-      "16":{
-         "title":"First Impressions",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "33":{
+         "title":"Could You Tell Me?",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/RjXWlBP"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/9IUKxaL"
          }
       },
-      "17":{
-         "title":"What I Want",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "34":{
+         "title":"The Bento",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/EP5brTb"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/0qt3Tff"
          }
       },
-      "17.5":{
-         "title":"I Just Want to Hold You",
-         "volume":"2",
-         "last_updated":"1681568472",
+      "34.5":{
+         "title":"The Office Rendezvous Map + The First Sweet Smell",
+         "volume":"4",
+         "last_updated":"1683305947",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/1JcHWZS"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/oMlGmvV"
          }
       }
    }
