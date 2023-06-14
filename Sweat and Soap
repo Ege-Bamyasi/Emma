@@ -87,7 +87,7 @@
       },
       "82":{
          "title":"An Ordinary Morning",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/BefBosk"
@@ -95,7 +95,7 @@
       },
       "83":{
          "title":"Weddingward",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/FJ9UXoi"
@@ -103,7 +103,7 @@
       }, 
       "84":{
          "title":"The Smooth Move",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/nyTB8EW"
@@ -111,7 +111,7 @@
       },
       "85":{
          "title":"The Day We Become Family (1)",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/aJGGkIR"
@@ -119,7 +119,7 @@
       },
       "86":{
          "title":"The Day We Become Family (2)",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/FtRFw6C"
@@ -127,7 +127,7 @@
       },
       "87":{
          "title":"One Fine Day",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/rbBVq6E"
@@ -135,7 +135,7 @@
       },
       "88":{
          "title":"Ceremony Talk",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/UjPUExX"
@@ -143,7 +143,7 @@
       },
       "89":{
          "title":"A Dose of ~~Reality~~ Wedding Planning",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/hhapbKU"
@@ -151,18 +151,74 @@
       },
       "90":{
          "title":"The Dress Fitting",
-         "volume":"6",
+         "volume":"10",
          "last_updated":"1685231780",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/4xG1qws"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/eIiWdQ9"
          }
       },
-      "71.5":{
-         "title":"In Bed, Okay?",
-         "volume":"6",
+      "91":{
+         "title":"Bridal Innerwear",
+         "volume":"11",
          "last_updated":"1685231780",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/gaeOG2Y"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/EjJdKlj"
+         }
+      },
+      "92":{
+         "title":"How Have You Been Lately?",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/CyGmOcJ"
+         }
+      },
+      "93":{
+         "title":"The End of the Year",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/UfswaI6"
+         }
+      },
+      "94":{
+         "title":"February: Hell Month",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/WFyA5D0"
+         }
+      },
+      "95":{
+         "title":"All Set...?",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/0kcNAvB"
+         }
+      },
+      "96":{
+         "title":"Dressed for the Big Day",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/E05MR7Y"
+         }
+      },
+      "97":{
+         "title":"Final Chapter: Goodwill and Gratitude",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/qwoYbGE"
+         }
+      },
+      "96.5":{
+         "title":"Epilogue: What Came Next Part I + II",
+         "volume":"11",
+         "last_updated":"1685231780",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/OPFUCLu"
          }
       }
    }
