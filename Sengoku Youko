@@ -1,27 +1,27 @@
 {
-   "title":"Sweat and Soap Pt.5",
-   "description":"Part 5/5 of the readthrough. BGM Suggestion: https://youtu.be/MlgD3nOndxw",
-   "artist":"Kintetsu Yamada",
-   "author":"Kintetsu Yamada",
-   "cover":"https://i.imgur.com/irnBXEN.jpg",
+   "title":"Sengoku Youko Pt. 1",
+   "description":"Part 1/6 of the readthrough. BGM Suggestion: https://youtu.be/PtzmzK9dtz4",
+   "artist":"Satoshi Mizukami",
+   "author":"Satoshi Mizukami",
+   "cover":"https://i.imgur.com/PaGt5pR.png",
    "chapters":{
-      "72":{
-         "title":"Summer Festival",
-         "volume":"9",
+      "1":{
+         "title":"Those Who Worry for This Troubled Time",
+         "volume":"1",
          "last_updated":"1686770928",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/0E14kSX/"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/D8ckwXp/"
          }
       },
-      "73":{
+      "2":{
          "title":"Find Me",
          "volume":"9",
          "last_updated":"1686770928",
          "groups":{
-            "V1 Manga Club":"/proxy/api/imgur/chapter/QxGjVnB/"
+            "V1 Manga Club":"/proxy/api/imgur/chapter/aXnB5Ys/"
          }
       },
-      "74":{
+      "3":{
          "title":"Asako Catches a Cold",
          "volume":"9",
          "last_updated":"1686770928",
