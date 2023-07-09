@@ -100,6 +100,150 @@
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/3v3duwT"
          }
-      }
+      },
+      "13":{
+         "title":"Legend of the Strongest Swordsman",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/YU9l9Zb/"
+         }
+      },
+      "14":{
+         "title":"Fukou",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/8VI1ZsM/"
+         }
+      },
+      "15":{
+         "title":"The Orangutans' Sake",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/pushITX"
+         }
+      },
+      "16":{
+         "title":"The Rock Village",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/wgkmqTR"
+         }
+      },
+      "17":{
+         "title":"Fist of the Soul",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/hBSFd0x"
+         }
+      },
+      "18":{
+         "title":"Kagan and Shakuyaku",
+         "volume":"3",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/f7XEwJp"
+         }
+      },
+      "19":{
+         "title":"Cursed Swordsman",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/WZg4fLA"
+         }
+      },
+      "20":{
+         "title":"Real Names",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/6BsOoec"
+         }
+      },
+      "21":{
+         "title":"Mountain God 1",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GZmpNcp"
+         }
+      },
+      "22":{
+         "title":"Mountain God 2",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/yzUzkIo"
+         }
+      },
+      "23":{
+         "title":"Mountain God 3",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/zO5Qh7T"
+         }
+      },
+      "24":{
+         "title":"Mountain God 4",
+         "volume":"4",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/3v3duwT"
+         }
+      },
+      "25":{
+         "title":"Mountain God 5",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/D8ckwXp/"
+         }
+      },
+      "26":{
+         "title":"Mountain God 6",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/8VI1ZsM/"
+         }
+      },
+      "27":{
+         "title":"Daiganshuu's Strongest",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/AVrgn7U"
+         }
+      },
+      "28":{
+         "title":"At the Entrance of the Temple",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/ZZWCg5b"
+         }
+      },
+      "29":{
+         "title":"The Way We Were",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/ipZbkfC"
+         }
+      },
+      "30":{
+         "title":"Jinka and Douren",
+         "volume":"5",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Rfqr6YO"
+         }
+       }
    }
 }
