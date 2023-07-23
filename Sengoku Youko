@@ -244,6 +244,54 @@
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/lJnF9qK"
          }
+       },
+      "31":{
+         "title":"Takekichi and Barry",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GUGPNmO/"
+         }
+      },
+      "32":{
+         "title":"Taizan and the Mountain God",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/V0xFcH1/"
+         }
+      },
+      "33":{
+         "title":"Beast God 1",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/NybsxWu"
+         }
+      },
+      "34":{
+         "title":"Beast God 2",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Dd0uhuR"
+         }
+      },
+      "35":{
+         "title":"Beast God 3",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/a9XdNv1"
+         }
+      },
+      "35.5":{
+         "title":"Demon Fox, Little Song",
+         "volume":"6",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/FcdDFxQ"
+         }
        }
    }
 }
