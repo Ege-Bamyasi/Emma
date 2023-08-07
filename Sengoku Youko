@@ -1,9 +1,9 @@
 {
-   "title":"Sengoku Youko Pt. 3",
-   "description":"Part 3/6 of the readthrough. BGM Suggestion: https://youtu.be/PtzmzK9dtz4",
+   "title":"Sengoku Youko Pt. 4",
+   "description":"Part 4/6 of the readthrough. BGM Suggestion: https://youtu.be/PtzmzK9dtz4",
    "artist":"Satoshi Mizukami",
    "author":"Satoshi Mizukami",
-   "cover":"https://i.imgur.com/JVRLqJd.jpg",
+   "cover":"https://i.imgur.com/TepQm9a.jpg",
    "chapters":{
       "1":{
          "title":"Those Who Worry for This Troubled Time",
@@ -372,6 +372,150 @@
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/iqiFJWN"
          }
-       }
+       },
+      "46":{
+         "title":"Memories",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4iR5wqC/"
+         }
+      },
+      "47":{
+         "title":"The Promised Time Approaches",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/zFywDto"
+         }
+      },
+      "48":{
+         "title":"To the Tops of the Clouds - 1",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/I0GpKZc"
+         }
+      },
+      "49":{
+         "title":"To the Tops of the Clouds - 2",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/rG4dSvs"
+         }
+      },
+      "50":{
+         "title":"To the Tops of the Clouds - 3",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/eYCH3CZ"
+         }
+      },
+      "51":{
+         "title":"To the Tops of the Clouds - 4",
+         "volume":"9",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/NJuc26t"
+         }
+      },
+      "52":{
+         "title":"The End of the Journey",
+         "volume":"10",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/K7C0dy8"
+         }
+      },
+      "53":{
+         "title":"Encounter",
+         "volume":"10",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SAcoUT5"
+         }
+      },
+      "54":{
+         "title":"Genki Era Year 4",
+         "volume":"10",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/uVf5iOo"
+         }
+      },
+      "55":{
+         "title":"Barrier Island",
+         "volume":"10",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/HDtkIPB"
+         }
+      },
+      "56":{
+         "title":"Prediction",
+         "volume":"10",
+         "last_updated":"1687706843",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/zTYlxUE"
+         }
+      },
+      "57":{
+         "title":"Furuon",
+         "volume":"10",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/VxKOhxi/"
+         }
+      },
+      "58":{
+         "title":"Rat Illusion, Playground Mountain",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/A4Ke2h8/"
+         }
+      },
+      "59":{
+         "title":"Request",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5Ts2DJW"
+         }
+      },
+      "60":{
+         "title":"Senya and Jinun",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/HqrAxCC"
+         }
+      },
+      "61":{
+         "title":"Senya's Eight Years",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/7SzH0hH"
+         }
+      },
+      "62":{
+         "title":"Dragon of the Spirit World",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/f7XEwJp"
+         }
+      },
+      "63":{
+         "title":"Cheat",
+         "volume":"11",
+         "last_updated":"1688937417",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/f7XEwJp"
+         }
+      }
    }
 }
