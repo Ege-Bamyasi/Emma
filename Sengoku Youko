@@ -516,6 +516,150 @@
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/bzjpx6Y"
          }
+      },
+      "64":{
+         "title":"Yazen and Senya",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dMJw1kv"
+         }
+      },
+      "65":{
+         "title":"Senya's Village",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PCKhBrE"
+         }
+      },
+      "66":{
+         "title":"Chasing the Thousand Demon Devil",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/QI4OSzZ"
+         }
+      },
+      "67":{
+         "title":"Mudo and Douren 1",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/aBhQiaS/"
+         }
+      },
+      "68":{
+         "title":"Mudo and Douren 2",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1Fsj8eh/"
+         }
+      },
+      "69":{
+         "title":"Location of the Final Battle",
+         "volume":"12",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5HRnAmF"
+         }
+      },
+      "70":{
+         "title":"Outbreak",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PZkhaHP"
+         }
+      },
+      "71":{
+         "title":"Reunion",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/T7QdFDu"
+         }
+      },
+      "72":{
+         "title":"Hostage",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Nf3uBPe"
+         }
+      },
+      "73":{
+         "title":"Fierce Battle",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/47yGzRz"
+         }
+      },
+      "74":{
+         "title":"Super War God Combination! Bishamonten Dangai",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1XQqo03"
+         }
+      },
+      "75":{
+         "title":"Awakening",
+         "volume":"13",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4gjiB54"
+         }
+      },
+      "76":{
+         "title":"Shakugan and Kazamatsuri Shinsuke",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GvJNwR3"
+         }
+      },
+      "77":{
+         "title":"Tsukiko and Mudo",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/UrMA5mM"
+         }
+      },
+      "78":{
+         "title":"In One Go",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/3SzciUB"
+         }
+      },
+      "79":{
+         "title":"Banshouou Descends",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/e4x7Iz9/"
+         }
+      },
+      "80":{
+         "title":"Jinun and Douren",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/UQ6iFUu/"
+         }
+      },
+      "81":{
+         "title":"Dousuke and Kumozou",
+         "volume":"14",
+         "last_updated":"1692564037",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5K6rT4J"
+         }
       }
    }
 }
