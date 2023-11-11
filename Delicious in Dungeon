@@ -6,7 +6,7 @@
    "cover":"https://i.imgur.com/efrrCjJ.jpg",
    "chapters":{
       "1":{
-         "title":"Those Who Worry for This Troubled Time",
+         "title":"Hot Pot",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -14,7 +14,7 @@
          }
       },
       "2":{
-         "title":"World of Demons",
+         "title":"Tart",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -22,7 +22,7 @@
          }
       },
       "3":{
-         "title":"Shakugan",
+         "title":"Roast Basilisk",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -30,7 +30,7 @@
          }
       },
       "4":{
-         "title":"Daiganshuu",
+         "title":"Omelet",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -38,7 +38,7 @@
          }
       },
       "5":{
-         "title":"Castle",
+         "title":"Kakiage",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -46,7 +46,7 @@
          }
       },
       "6":{
-         "title":"Eiroku Year 7",
+         "title":"Living Armor 1",
          "volume":"1",
          "last_updated":"1687706843",
          "groups":{
@@ -54,15 +54,15 @@
          }
       },
       "7":{
-         "title":"Jinka and the Humans",
-         "volume":"2",
+         "title":"Living Armor 2",
+         "volume":"1",
          "last_updated":"1687706843",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/gbhvizO"
          }
       },
       "8":{
-         "title":"Raiden Zanzou",
+         "title":"Stewed Cabbage",
          "volume":"2",
          "last_updated":"1687706843",
          "groups":{
@@ -70,7 +70,7 @@
          }
       },
       "9":{
-         "title":"Duel",
+         "title":"Orcs",
          "volume":"2",
          "last_updated":"1687706843",
          "groups":{
@@ -78,7 +78,7 @@
          }
       },
       "10":{
-         "title":"Higan",
+         "title":"Snacks",
          "volume":"2",
          "last_updated":"1687706843",
          "groups":{
@@ -86,7 +86,7 @@
          }
       },
       "11":{
-         "title":"Human Transformation",
+         "title":"Sorbet",
          "volume":"2",
          "last_updated":"1687706843",
          "groups":{
@@ -94,7 +94,7 @@
          }
       },
       "12":{
-         "title":"Departure",
+         "title":"Court Cuisine",
          "volume":"2",
          "last_updated":"1687706843",
          "groups":{
@@ -102,16 +102,16 @@
          }
       },
       "13":{
-         "title":"Legend of the Strongest Swordsman",
-         "volume":"3",
+         "title":"Boiled in Salt Water",
+         "volume":"2",
          "last_updated":"1688937417",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/DyFZwVW/"
          }
       },
       "14":{
-         "title":"Fukou",
-         "volume":"3",
+         "title":"Kelpie",
+         "volume":"2",
          "last_updated":"1688937417",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/ksKnEJd/"
