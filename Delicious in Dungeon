@@ -1,9 +1,9 @@
 {
-   "title":"Delicious in Dungeon Pt.1",
-   "description":"Part 1/8 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
+   "title":"Delicious in Dungeon Pt.2",
+   "description":"Part 2/8 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
    "artist":"Ryoko Kui",
    "author":"Ryoko Kui",
-   "cover":"https://i.imgur.com/efrrCjJ.jpg",
+   "cover":"https://i.imgur.com/7z3PQPh.jpg",
    "chapters":{
       "1":{
          "title":"Hot Pot",
@@ -115,6 +115,118 @@
          "last_updated":"1699714903",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/ksKnEJd/"
+         }
+      },
+       "15":{
+         "title":"Porridge",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4lBX8vI/"
+         }
+      },
+      "16":{
+         "title":"Broiled with Sauce",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/iwZVyCy/"
+         }
+      },
+      "17":{
+         "title":"Raspberries",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5um0GrI"
+         }
+      },
+      "18":{
+         "title":"Grilled Meat",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/HDsBdbY"
+         }
+      },
+      "19":{
+         "title":"Tentacles",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/x6JJjDC"
+         }
+      },
+      "20":{
+         "title":"Stew",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/wwokdwo"
+         }
+      },
+      "21":{
+         "title":"Giant Frogs",
+         "volume":"3",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1c4g4gj"
+         }
+      },
+      "22":{
+         "title":"Aboveground",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/L5fkFlw"
+         }
+      },
+      "23":{
+         "title":"Red Dragon 1",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/kTpYNdz"
+         }
+      },
+      "24":{
+         "title":"Red Dragon 2",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/EZHzWKx"
+         }
+      },
+      "25":{
+         "title":"Red Dragon 3",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SmR7Tlr"
+         }
+      },
+      "26":{
+         "title":"Red Dragon 4",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/8aqOFv7"
+         }
+      },
+      "27":{
+         "title":"Red Dragon 5",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GbblP1V/"
+         }
+      },
+      "28":{
+         "title":"Red Dragon 6",
+         "volume":"4",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4coIzr3/"
          }
       }
    }
