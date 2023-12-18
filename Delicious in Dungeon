@@ -228,6 +228,118 @@
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/4coIzr3/"
          }
+      },
+      "29":{
+         "title":"Kelpie",
+         "volume":"5",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/boj3g9X/"
+         }
+      },
+       "30":{
+         "title":"Porridge",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/UOjw6py/"
+         }
+      },
+      "31":{
+         "title":"Broiled with Sauce",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/nLUnWBD/"
+         }
+      },
+      "32":{
+         "title":"Raspberries",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5dFyPwz"
+         }
+      },
+      "33":{
+         "title":"Grilled Meat",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/0y4vhUc"
+         }
+      },
+      "34":{
+         "title":"Tentacles",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/WeYgI7H"
+         }
+      },
+      "35":{
+         "title":"Stew",
+         "volume":"5",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/lnsZdHh"
+         }
+      },
+      "36":{
+         "title":"Giant Frogs",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1c4g4gj"
+         }
+      },
+      "37":{
+         "title":"Aboveground",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/nGanoMr"
+         }
+      },
+      "38":{
+         "title":"Red Dragon 1",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/kd95qNK"
+         }
+      },
+      "39":{
+         "title":"Red Dragon 2",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/EZHzWKx"
+         }
+      },
+      "40":{
+         "title":"Red Dragon 3",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SmR7Tlr"
+         }
+      },
+      "41":{
+         "title":"Red Dragon 4",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/8aqOFv7"
+         }
+      },
+      "42":{
+         "title":"Red Dragon 5",
+         "volume":"6",
+         "last_updated":"1701050900",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GbblP1V/"
+         }
       }
    }
 }
