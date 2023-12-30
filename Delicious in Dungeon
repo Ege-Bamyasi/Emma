@@ -1,9 +1,9 @@
 {
-   "title":"Delicious in Dungeon Pt.3",
-   "description":"Part 3/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
+   "title":"Delicious in Dungeon Pt.4",
+   "description":"Part 4/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
    "artist":"Ryoko Kui",
    "author":"Ryoko Kui",
-   "cover":"https://i.imgur.com/za5TlHz.jpg",
+   "cover":"https://i.imgur.com/HbX0iN6.jpg",
    "chapters":{
       "1":{
          "title":"Hot Pot",
@@ -339,6 +339,118 @@
          "last_updated":"1702862261",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/OzQIc27/"
+         }
+      },
+      "43":{
+         "title":"Ice Golem",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/7CaHRt6/"
+         }
+      },
+      "44":{
+         "title":"Barometz",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/nvsGSUQ/"
+         }
+      },
+       "45":{
+         "title":"Egg",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/gYDp63g/"
+         }
+      },
+      "46":{
+         "title":"The Golden Country",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/pMZafeH/"
+         }
+      },
+      "47":{
+         "title":"Griffin",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/fUKhdo0"
+         }
+      },
+      "48":{
+         "title":"Familiars",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4qp8IJp"
+         }
+      },
+      "49":{
+         "title":"Griffin Soup",
+         "volume":"7",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/plK3c9W"
+         }
+      },
+      "50":{
+         "title":"Dumplings 1",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/YkWMbLx"
+         }
+      },
+      "51":{
+         "title":"Dumplings 2",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/7khKHAO"
+         }
+      },
+      "52":{
+         "title":"Bacon and Eggs",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/QLbuY6u"
+         }
+      },
+      "53":{
+         "title":"One Floor One 1",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/wpupXpD"
+         }
+      },
+      "54":{
+         "title":"One Floor One 2",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dBaA8je"
+         }
+      },
+      "55":{
+         "title":"One Floor One 3",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/6Ulj598"
+         }
+      },
+      "56":{
+         "title":"Bicorn",
+         "volume":"8",
+         "last_updated":"1703978681",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/6uyyiPb"
          }
       }
    }
