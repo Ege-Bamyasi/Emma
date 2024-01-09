@@ -1,9 +1,9 @@
 {
-   "title":"Delicious in Dungeon Pt.4",
-   "description":"Part 4/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
+   "title":"Delicious in Dungeon Pt.5",
+   "description":"Part 5/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
    "artist":"Ryoko Kui",
    "author":"Ryoko Kui",
-   "cover":"https://i.imgur.com/HbX0iN6.jpg",
+   "cover":"https://i.imgur.com/w6wMBpf.jpg",
    "chapters":{
       "1":{
          "title":"Hot Pot",
@@ -451,6 +451,110 @@
          "last_updated":"1703978681",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/6uyyiPb"
+         }
+      }
+      "57":{
+         "title":"Stewed Head",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Xjc197m/"
+         }
+      },
+      "58":{
+         "title":"Succubus 1",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GIGKeKw/"
+         }
+      },
+      "59":{
+         "title":"Succubus 2",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/geoYn5Y"
+         }
+      },
+      "60":{
+         "title":"The Winged Lion",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/m1XtM7x"
+         }
+      },
+      "61":{
+         "title":"Roasted Walking Mushroom",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/jAM7diy"
+         }
+      },
+      "62":{
+         "title":"Six Days",
+         "volume":"9",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/uaVSBsy"
+         }
+      },
+      "63":{
+         "title":"Confit",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1Y2sZ1k"
+         }
+      },
+      "64":{
+         "title":"Rabbits 1",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/tYoBru0"
+         }
+      },
+      "65":{
+         "title":"Rabbits 2",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/rzPHczT"
+         }
+      },
+      "66":{
+         "title":"Curry 1",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/bmIo2Zx"
+         }
+      },
+      "67":{
+         "title":"Curry 2",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/jpC6Sb0"
+         }
+      },
+      "68":{
+         "title":"Sissel 1",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/O0tP5cp"
+         }
+      },
+      "69":{
+         "title":"Sissel 2",
+         "volume":"10",
+         "last_updated":"1699714903",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/y4KD3YQ/"
          }
       }
    }
