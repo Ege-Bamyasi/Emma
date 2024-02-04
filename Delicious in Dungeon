@@ -1,9 +1,9 @@
 {
-   "title":"Delicious in Dungeon Pt.6",
-   "description":"Part 6/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
+   "title":"Delicious in Dungeon Pt.7 FINALE",
+   "description":"Part 7/7 of the readthrough. BGM Suggestion: https://youtu.be/ipFaubyDUT4",
    "artist":"Ryoko Kui",
    "author":"Ryoko Kui",
-   "cover":"https://i.imgur.com/ggYSFyP.jpg",
+   "cover":"https://i.imgur.com/r8wK2E6.png",
    "chapters":{
       "1":{
          "title":"Hot Pot",
@@ -683,6 +683,110 @@
          "last_updated":"1705980370",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/MglE36C/"
+         }
+      },
+      "86":{
+         "title":"Winged Lion 1",
+         "volume":"13",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/k8YtSuU/"
+         }
+      },
+      "87":{
+         "title":"Winged Lion 2",
+         "volume":"13",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/aU9qdHV/"
+         }
+      },
+      "88":{
+         "title":"Winged Lion 3",
+         "volume":"13",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PP3j8Pk"
+         }
+      },
+      "89":{
+         "title":"Winged Lion 4",
+         "volume":"13",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/5H0BhTg"
+         }
+      },
+      "90":{
+         "title":"Winged Lion 5",
+         "volume":"13",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/2fkK1e9"
+         }
+      },
+      "91":{
+         "title":"Winged Lion 6",
+         "volume":"12",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/3Ujt7LL"
+         }
+      },
+      "92":{
+         "title":"The Island",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/VcxZuNs"
+         }
+      },
+      "93":{
+         "title":"Falin 1",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/0B7v7tF"
+         }
+      },
+      "94":{
+         "title":"Falin 2",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/FGoqwNz"
+         }
+      },
+      "95":{
+         "title":"Falin 3",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/tqtACBU"
+         }
+      },
+      "96":{
+         "title":"Falin 4",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/u7at0we"
+         }
+      },
+      "97":{
+         "title":"Finale: Delicious in Dungeon",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/7J4rLz9"
+         }
+      },
+      "98":{
+         "title":"Epilogue: Kensuke",
+         "volume":"14",
+         "last_updated":"1707086967",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/x3yWAh5"
          }
       }
    }
