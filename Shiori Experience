@@ -1,9 +1,9 @@
 {
-   "title":"Shiori Experience Pt.1",
-   "description":"Part 1/7 of the readthrough. BGM Suggestion: https://youtube.com/playlist?list=PL-kavOz53Os5YeKyPtWswGLXizw5Boyul&si=jeK3sv-jKvfEYXOf",
+   "title":"Shiori Experience Pt.2",
+   "description":"Part 2/7 of the readthrough. BGM Suggestion: https://youtube.com/playlist?list=PL-kavOz53Os5YeKyPtWswGLXizw5Boyul&si=jeK3sv-jKvfEYXOf",
    "artist":"Machida Kazuya, Osada Yu-Ko",
    "author":"Machida Kazuya, Osada Yu-Ko",
-   "cover":"https://i.imgur.com/MvIpq1L.jpg",
+   "cover":"https://i.imgur.com/ItCmlnY.jpeg",
    "chapters":{
       "1":{
          "title":"Jack In",
@@ -67,6 +67,86 @@
          "last_updated":"1714561862",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/2zAE4Sq"
+         }
+      },
+      "9":{
+         "title":"Trial",
+         "volume":"3",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/jwXkqSv/"
+         }
+      },
+      "10":{
+         "title":"Cigarette",
+         "volume":"3",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/61l4MX2/"
+         }
+      },
+      "11":{
+         "title":"Jam 2",
+         "volume":"3",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1KurpXN"
+         }
+      },
+      "12":{
+         "title":"Cuckoo",
+         "volume":"3",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/2xjxlM5"
+         }
+      },
+      "13":{
+         "title":"Daydream",
+         "volume":"3",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PAcvZCZ"
+         }
+      },
+      "14":{
+         "title":"27",
+         "volume":"4",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PUTkhfI"
+         }
+      },
+      "15":{
+         "title":"Joji",
+         "volume":"4",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/iE8JKyx"
+         }
+      },
+      "16":{
+         "title":"Score",
+         "volume":"4",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/8xvaj3y"
+         }
+      },
+      "17":{
+         "title":"Live",
+         "volume":"4",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/WWZPr1r"
+         }
+      },
+      "18":{
+         "title":"Emotion",
+         "volume":"4",
+         "last_updated":"1714561862",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/bq9Pvof"
          }
       }
    }
