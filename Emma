@@ -1,9 +1,9 @@
 {
    "title":"Emma",
-   "description":"Part 1/5 of the readthrough. BGM Suggestion: https://youtu.be/jr35ACR3vqc",
+   "description":"Part 2/5 of the readthrough. BGM Suggestion: https://youtu.be/jr35ACR3vqc",
    "artist":"Kaoru Mori",
    "author":"Kaoru Mori",
-   "cover":"https://i.imgur.com/lhypvqY.jpeg",
+   "cover":"https://i.imgur.com/exHJYhl.jpeg",
    "chapters":{
       "1":{
          "title":"The Visitor",
@@ -115,6 +115,126 @@
          "last_updated":"1736088086",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/E73gTSJ"
+         }
+      },
+      "15":{
+         "title":"The Visitor",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/iXwCbIO/"
+         }
+      },
+      "16":{
+         "title":"The Glasses",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/FZmraM3/"
+         }
+      },
+      "17":{
+         "title":"The Visitor from the South",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/ux0EtgX"
+         }
+      },
+      "18":{
+         "title":"The Love Letters",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/1KAnd26"
+         }
+      },
+      "19":{
+         "title":"The Photograph",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/kpnqvQM"
+         }
+      },
+      "20":{
+         "title":"The Two Watches",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/RhkR28Q"
+         }
+      },
+      "21":{
+         "title":"The Father, Richard Jones",
+         "volume":"1",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/n4QGFj7"
+         }
+      },
+      "22":{
+         "title":"At the Crystal Palace",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/r6eeFRq"
+         }
+      },
+      "23":{
+         "title":"Family",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/7ha7h8j/"
+         }
+      },
+      "24":{
+         "title":"Alone",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/AI876u2/"
+         }
+      },
+      "25":{
+         "title":"Eleanor at the Banquet",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/SYEInjG"
+         }
+      },
+      "26":{
+         "title":"Farewell, Emma (Part 1)",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4eF8wz7"
+         }
+      },
+      "27":{
+         "title":"Farewell, Emma (Part 2)",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dtLckxX"
+         }
+      },
+      "28":{
+         "title":"Farewell, Emma (Final)",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/MYCm3fd"
+         }
+      },
+      "29":{
+         "title":"Farewell, Emma (Final)",
+         "volume":"2",
+         "last_updated":"1736088086",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/aR4iHuS"
          }
       }
    }
